@@ -1,0 +1,65 @@
+body{
+	background-size: 100%;
+	background-image: url(../img/背景.jpg);
+}
+
+#nav ul {
+	list-style-type: none;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#nav li {
+	float: left;
+	width: 16.66%;
+}
+
+#nav a {
+	text-align: center;
+	font-size: large;
+	display: block;
+	background-size: 100%;
+	background-image: url(../img/导航2-蓝.jpg);
+}
+
+#list table {
+	width: 100%;
+}
+
+#list td{
+	width: 50%;
+}
+#list a{
+	font-size: large;
+	color: black;
+	margin: 10px;
+}
+
+#content table {
+	width: 100%;
+}
+
+#FR_Name{
+	font-family: "楷体";
+	font-size: xx-large;
+	text-align: center;
+}
+#FR_Img{
+	float: left;
+	border: double;
+	width: 20%;
+}
+#FR_Remark{
+	font-family: "仿宋";
+	font-size: large;
+	float: left;
+	text-indent: 2em;
+	margin-top: 20px;
+}
+#FR_Content{
+	text-indent: 2em;
+	margin-top: 10px;
+}
+}
+
