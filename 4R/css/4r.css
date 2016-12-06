@@ -29,18 +29,17 @@
 	width: 100%;
 	height: 100%;
 }
-#list a{
-	font-size: large;
-	color: black;
-	margin: 10px;
-}
 
 #list iframe{
 	width: 100%;
 	height:100%;
+}
 
-#content table {
+#list ul {
+	list-style-type: none;
 	width: 100%;
+	margin: 0;
+	padding: 0;
 }
 
 #FR_Name{
